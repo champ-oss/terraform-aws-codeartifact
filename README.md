@@ -1,6 +1,6 @@
 # terraform-aws-codeartifact
 
-A Terraform module for creating an AWS CodeArtifact repository
+Terraform module for creating an AWS CodeArtifact repository
 
 [![.github/workflows/module.yml](https://github.com/champ-oss/terraform-aws-codeartifact/actions/workflows/module.yml/badge.svg?branch=main)](https://github.com/champ-oss/terraform-aws-codeartifact/actions/workflows/module.yml)
 [![.github/workflows/lint.yml](https://github.com/champ-oss/terraform-aws-codeartifact/actions/workflows/lint.yml/badge.svg?branch=main)](https://github.com/champ-oss/terraform-aws-codeartifact/actions/workflows/lint.yml)
